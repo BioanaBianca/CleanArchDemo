@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Mvc", "CleanArch.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Domain", "CleanArch.Domain\CleanArch.Domain.csproj", "{8DC7B34A-A526-4EFF-8BE1-ADA84088FE38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Infrastructure.Data", "CleanArch.Infrastructure.Data\CleanArch.Infrastructure.Data.csproj", "{E183E747-EF88-41B7-B489-27FA3187A9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Infrastructure.Data", "CleanArch.Infrastructure.Data\CleanArch.Infrastructure.Data.csproj", "{E183E747-EF88-41B7-B489-27FA3187A9B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Application", "CleanArch.Application\CleanArch.Application.csproj", "{D7CF4B4C-C935-4101-B984-5702B4203AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Application", "CleanArch.Application\CleanArch.Application.csproj", "{D7CF4B4C-C935-4101-B984-5702B4203AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Infrastructure.IoC", "CleanArch.Infrastructure.IoC\CleanArch.Infrastructure.IoC.csproj", "{F77EE0F1-821D-4734-8475-79F507499361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Infrastructure.IoC", "CleanArch.Infrastructure.IoC\CleanArch.Infrastructure.IoC.csproj", "{F77EE0F1-821D-4734-8475-79F507499361}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
